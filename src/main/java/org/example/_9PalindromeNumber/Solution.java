@@ -1,6 +1,5 @@
 package org.example._9PalindromeNumber;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Solution {
