@@ -14,10 +14,9 @@ public class Solution {
         String[] algarismInverted = new String[number.length()];
 
 
-
         for (int i = 0; i < algarism.length; i++) {
-            algarism[i] = (number.substring(i, i+1));
-            algarismInverted[number.length() - 1 - i] = (number.substring(i, i+1));
+            algarism[i] = (number.substring(i, i + 1));
+            algarismInverted[number.length() - 1 - i] = (number.substring(i, i + 1));
         }
 
         System.out.println(Arrays.toString(algarism));
