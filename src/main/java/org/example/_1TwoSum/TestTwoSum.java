@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class TestTwoSum {
     public static void main(String[] args) {
-        _1TwoSum sum = new _1TwoSum();
+        Solution sum = new Solution();
 
         int[] nums = new int[]{2,7,11,15};
         int[] nums1 = new int[]{3,2,4};

@@ -1,6 +1,6 @@
 package org.example._1TwoSum;
 
-public class _1TwoSum {
+public class Solution {
 
     public int[] twoSum(int[] nums, int target) {
 
