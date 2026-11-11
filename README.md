@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/seugirdur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/seugirdur/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/seugirdur/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/seugirdur/LeetCode/tree/master/0136-single-number) |
 | [0941-valid-mountain-array](https://github.com/seugirdur/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/seugirdur/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/seugirdur/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/seugirdur/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/seugirdur/LeetCode/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/seugirdur/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Counting
 |  |
 | ------- |
