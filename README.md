@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/seugirdur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/seugirdur/LeetCode/tree/master/0053-maximum-subarray) |
 | [0941-valid-mountain-array](https://github.com/seugirdur/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/seugirdur/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1030-matrix-cells-in-distance-order](https://github.com/seugirdur/LeetCode/tree/master/1030-matrix-cells-in-distance-order) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/seugirdur/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/seugirdur/LeetCode/tree/master/0091-decode-ways) |
 ## Counting
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/seugirdur/LeetCode/tree/master/0089-gray-code) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/seugirdur/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
