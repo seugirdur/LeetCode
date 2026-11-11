@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/seugirdur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
 | [0941-valid-mountain-array](https://github.com/seugirdur/LeetCode/tree/master/0941-valid-mountain-array) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/seugirdur/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1030-matrix-cells-in-distance-order](https://github.com/seugirdur/LeetCode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/seugirdur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/seugirdur/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## String
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/seugirdur/LeetCode/tree/master/0091-decode-ways) |
+## Counting
+|  |
+| ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/seugirdur/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 <!---LeetCode Topics End-->
