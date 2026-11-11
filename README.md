@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/seugirdur/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/seugirdur/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/seugirdur/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/seugirdur/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/seugirdur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/seugirdur/LeetCode/tree/master/0089-gray-code) |
 | [1030-matrix-cells-in-distance-order](https://github.com/seugirdur/LeetCode/tree/master/1030-matrix-cells-in-distance-order) |
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/seugirdur/LeetCode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/seugirdur/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/seugirdur/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
