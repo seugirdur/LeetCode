@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/seugirdur/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/seugirdur/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/seugirdur/LeetCode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/seugirdur/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/seugirdur/LeetCode/tree/master/0125-valid-palindrome) |
 | [2437-number-of-valid-clock-times](https://github.com/seugirdur/LeetCode/tree/master/2437-number-of-valid-clock-times) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/seugirdur/LeetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/seugirdur/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/seugirdur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/seugirdur/LeetCode/tree/master/0089-gray-code) |
 | [1030-matrix-cells-in-distance-order](https://github.com/seugirdur/LeetCode/tree/master/1030-matrix-cells-in-distance-order) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/seugirdur/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/seugirdur/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/seugirdur/LeetCode/tree/master/0136-single-number) |
 ## Divide and Conquer
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/seugirdur/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/seugirdur/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
