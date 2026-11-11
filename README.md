@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/seugirdur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
+| [0941-valid-mountain-array](https://github.com/seugirdur/LeetCode/tree/master/0941-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
