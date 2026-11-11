@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/seugirdur/LeetCode/tree/master/0091-decode-ways) |
 | [2437-number-of-valid-clock-times](https://github.com/seugirdur/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 ## Sorting
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2437-number-of-valid-clock-times](https://github.com/seugirdur/LeetCode/tree/master/2437-number-of-valid-clock-times) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/seugirdur/LeetCode/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
