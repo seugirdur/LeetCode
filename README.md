@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/seugirdur/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/seugirdur/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/seugirdur/LeetCode/tree/master/0125-valid-palindrome) |
 | [2437-number-of-valid-clock-times](https://github.com/seugirdur/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 ## Sorting
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seugirdur/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/seugirdur/LeetCode/tree/master/0125-valid-palindrome) |
 ## Manacher
 |  |
 | ------- |
