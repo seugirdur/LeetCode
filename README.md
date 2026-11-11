@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
+| [2437-number-of-valid-clock-times](https://github.com/seugirdur/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 ## Sorting
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/seugirdur/LeetCode/tree/master/1030-matrix-cells-in-distance-order) |
+## Enumeration
+|  |
+| ------- |
+| [2437-number-of-valid-clock-times](https://github.com/seugirdur/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 <!---LeetCode Topics End-->
