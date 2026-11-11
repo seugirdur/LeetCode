@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/seugirdur/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/seugirdur/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/seugirdur/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/seugirdur/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/seugirdur/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/seugirdur/LeetCode/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/seugirdur/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/seugirdur/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/seugirdur/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/seugirdur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/seugirdur/LeetCode/tree/master/0089-gray-code) |
