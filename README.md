@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/seugirdur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/seugirdur/LeetCode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/seugirdur/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/seugirdur/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/seugirdur/LeetCode/tree/master/0136-single-number) |
 | [0941-valid-mountain-array](https://github.com/seugirdur/LeetCode/tree/master/0941-valid-mountain-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/seugirdur/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/seugirdur/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/seugirdur/LeetCode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Math
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seugirdur/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/seugirdur/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/seugirdur/LeetCode/tree/master/0125-valid-palindrome) |
 ## Manacher
 |  |
