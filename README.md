@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/seugirdur/LeetCode/tree/master/0089-gray-code) |
 | [1030-matrix-cells-in-distance-order](https://github.com/seugirdur/LeetCode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Geometry
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/seugirdur/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/seugirdur/LeetCode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/seugirdur/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
